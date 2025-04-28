@@ -48,7 +48,7 @@ cat < file1
 
 cat < file2
 ## OUTPUT
-![Alt text](<../../os 2.png>)PUT
+![Alt text](<../../os 2.png>)
 
 
 # Comparing Files
